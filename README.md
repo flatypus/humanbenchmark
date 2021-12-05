@@ -1,0 +1,1 @@
+a compilation of selenium based codes aimed at beating each of the games in Human Benchmark. The account on HB, aptly named notahuman, has 100% percentile ranking on every game it plays in. Read and try out these codes if you want. (I might have left in a time.sleep(20) after the initial driver.get() for the human to login to their account.)
